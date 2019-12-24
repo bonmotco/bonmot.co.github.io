@@ -99,6 +99,12 @@ hr {
      -moz-box-sizing: content-box;
           box-sizing: content-box;
 }
+
+mark {
+  background-color: black;
+  color: white;
+}
+
 pre {
   overflow: auto;
 }
