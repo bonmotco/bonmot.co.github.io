@@ -1,0 +1,5 @@
+---
+layout: daten
+---
+
+Melbourne (/ˈmɛlbərn/ (About this soundlisten) MEL-bərn)[note 1] is the capital and most populous city of the Australian state of Victoria, and the second most populous city in Australia and Oceania.[1] Its name refers to an urban agglomeration of 9,993 km2 (3,858 sq mi),[10] comprising a metropolitan area with 31 municipalities,[11] and is also the common name for its city centre. The city occupies much of the coastline of Port Phillip bay and spreads into the hinterlands towards the Dandenong and Macedon ranges, Mornington Peninsula and Yarra Valley. It has a population of 5 million (19% of the population of Australia), and its inhabitants are referred to as "Melburnians".
